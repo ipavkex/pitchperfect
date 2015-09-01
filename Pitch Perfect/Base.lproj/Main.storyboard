@@ -190,16 +190,16 @@
                                 <exclude reference="hrQ-VI-Ozb"/>
                             </mask>
                             <mask key="constraints">
+                                <exclude reference="aBL-DK-wid"/>
+                                <exclude reference="G0m-Sm-gPB"/>
+                                <exclude reference="0F3-4k-7M4"/>
+                                <exclude reference="oNC-Oh-Qu6"/>
+                                <exclude reference="Oxo-Ob-V2V"/>
+                                <exclude reference="faI-qD-wH9"/>
                                 <exclude reference="4h8-H0-Wi4"/>
                                 <exclude reference="7iv-xw-9Ss"/>
                                 <exclude reference="10H-du-wyd"/>
                                 <exclude reference="zk7-Fx-Vwd"/>
-                                <exclude reference="Oxo-Ob-V2V"/>
-                                <exclude reference="faI-qD-wH9"/>
-                                <exclude reference="0F3-4k-7M4"/>
-                                <exclude reference="oNC-Oh-Qu6"/>
-                                <exclude reference="G0m-Sm-gPB"/>
-                                <exclude reference="aBL-DK-wid"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -211,16 +211,16 @@
                                 <include reference="hrQ-VI-Ozb"/>
                             </mask>
                             <mask key="constraints">
+                                <include reference="aBL-DK-wid"/>
+                                <include reference="G0m-Sm-gPB"/>
+                                <include reference="0F3-4k-7M4"/>
+                                <include reference="oNC-Oh-Qu6"/>
+                                <include reference="Oxo-Ob-V2V"/>
+                                <include reference="faI-qD-wH9"/>
                                 <include reference="4h8-H0-Wi4"/>
                                 <include reference="7iv-xw-9Ss"/>
                                 <include reference="10H-du-wyd"/>
                                 <include reference="zk7-Fx-Vwd"/>
-                                <include reference="Oxo-Ob-V2V"/>
-                                <include reference="faI-qD-wH9"/>
-                                <include reference="0F3-4k-7M4"/>
-                                <include reference="oNC-Oh-Qu6"/>
-                                <include reference="G0m-Sm-gPB"/>
-                                <include reference="aBL-DK-wid"/>
                             </mask>
                         </variation>
                     </view>
